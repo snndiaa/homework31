@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-unsigned const int SIZE = 5, ROWS = 2, COLS = 3, DEPTH = 2, ROWS_3 = 2, COLS_3 = 3; //константи для розміру масивів
+unsigned const int SIZE = 5, ROWS = 2, COLS = 3, DEPTH = 2, ROWS_3 = 2, COLS_3 = 3; //РєРѕРЅСЃС‚Р°РЅС‚Рё РґР»СЏ СЂРѕР·РјС–СЂСѓ РјР°СЃРёРІС–РІ
 
 int max_value(int arr[], int size)
 {
